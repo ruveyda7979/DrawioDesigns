@@ -4,11 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tGF9jPr_0tginp9t8C99-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="tGF9jPr_0tginp9t8C99-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="670" as="sourcePoint" />
             <mxPoint x="240" y="10" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-1" value="&lt;b&gt;New&lt;/b&gt;" style="rounded=1;fillColor=#141415;strokeColor=#314354;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-2" value="&lt;b&gt;Save&lt;/b&gt;" style="rounded=1;fillColor=#141415;strokeColor=#314354;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-3" value="&lt;b&gt;Back&lt;/b&gt;" style="rounded=1;fillColor=#141415;strokeColor=#314354;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-4" value="" style="shape=rect;fillColor=#e0e0e0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kLE2MuopeeFbLRN9dvn6-4" source="kLE2MuopeeFbLRN9dvn6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="231.7073170731707" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-5" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;strokeColor=none;" vertex="1" parent="kLE2MuopeeFbLRN9dvn6-4">
+          <mxGeometry width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-6" value="Search" style="shape=mxgraph.ios7.icons.looking_glass;strokeColor=#e0e0e0;fillColor=none;fontColor=#e0e0e0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=6;fontStyle=0;spacingTop=2;sketch=0;html=1;" vertex="1" parent="kLE2MuopeeFbLRN9dvn6-4">
+          <mxGeometry x="0.5" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLE2MuopeeFbLRN9dvn6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
